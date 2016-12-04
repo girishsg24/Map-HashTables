@@ -1,0 +1,162 @@
+Testing HashTests.cpp
+
+Statistics for file USConstitution.txt:
+
+                   Lines: 865
+             Total words: 7541
+          Distinct words: 1138
+
+       Linear table size: 1150
+     Total linear probes: 58646
+   Average linear probes: 7.77695
+
+    Quadratic table size: 2281
+  Total quadratic probes: 8437
+Average quadratic probes: 1.11882
+
+      Chained table size: 500
+    Average chain length: 2.276
+    Total chained probes: 13884
+  Average chained probes: 1.84114
+
+Tests with the word 'amendment':
+
+                  STL map: 35-amendment
+   Linear probe hashtable: 35-amendment (1 probes)
+Quadratic probe hashtable: 35-amendment (1 probes)
+        Chained hashtable: 35-amendment (1 probes)
+
+Tests with the word 'article':
+
+                  STL map: 28-article
+   Linear probe hashtable: 28-article (1 probes)
+Quadratic probe hashtable: 28-article (1 probes)
+        Chained hashtable: 28-article (5 probes)
+
+Tests with the word 'ballot':
+
+                  STL map: 5-ballot
+   Linear probe hashtable: 5-ballot (3 probes)
+Quadratic probe hashtable: 5-ballot (1 probes)
+        Chained hashtable: 5-ballot (1 probes)
+
+Tests with the word 'citizens':
+
+                  STL map: 18-citizens
+   Linear probe hashtable: 18-citizens (2 probes)
+Quadratic probe hashtable: 18-citizens (1 probes)
+        Chained hashtable: 18-citizens (2 probes)
+
+Tests with the word 'congress':
+
+                  STL map: 60-congress
+   Linear probe hashtable: 60-congress (1 probes)
+Quadratic probe hashtable: 60-congress (1 probes)
+        Chained hashtable: 60-congress (3 probes)
+
+Tests with the word 'constitution':
+
+                  STL map: 25-constitution
+   Linear probe hashtable: 25-constitution (1 probes)
+Quadratic probe hashtable: 25-constitution (1 probes)
+        Chained hashtable: 25-constitution (8 probes)
+
+Tests with the word 'democracy':
+
+                  STL map: *** Not found. ***
+   Linear probe hashtable: *** Not found. ***
+Quadratic probe hashtable: *** Not found. ***
+        Chained hashtable: *** Not found. ***
+
+Tests with the word 'electors':
+
+                  STL map: 16-electors
+   Linear probe hashtable: 16-electors (1 probes)
+Quadratic probe hashtable: 16-electors (1 probes)
+        Chained hashtable: 16-electors (2 probes)
+
+Tests with the word 'government':
+
+                  STL map: 8-government
+   Linear probe hashtable: 8-government (1 probes)
+Quadratic probe hashtable: 8-government (3 probes)
+        Chained hashtable: 8-government (3 probes)
+
+Tests with the word 'law':
+
+                  STL map: 39-law
+   Linear probe hashtable: 39-law (2 probes)
+Quadratic probe hashtable: 39-law (1 probes)
+        Chained hashtable: 39-law (1 probes)
+
+Tests with the word 'legislature':
+
+                  STL map: 13-legislature
+   Linear probe hashtable: 13-legislature (1 probes)
+Quadratic probe hashtable: 13-legislature (1 probes)
+        Chained hashtable: 13-legislature (2 probes)
+
+Tests with the word 'people':
+
+                  STL map: 9-people
+   Linear probe hashtable: 9-people (1 probes)
+Quadratic probe hashtable: 9-people (1 probes)
+        Chained hashtable: 9-people (3 probes)
+
+Tests with the word 'president':
+
+                  STL map: 121-president
+   Linear probe hashtable: 121-president (1 probes)
+Quadratic probe hashtable: 121-president (1 probes)
+        Chained hashtable: 121-president (4 probes)
+
+Tests with the word 'representatives':
+
+                  STL map: 29-representatives
+   Linear probe hashtable: 29-representatives (1 probes)
+Quadratic probe hashtable: 29-representatives (1 probes)
+        Chained hashtable: 29-representatives (4 probes)
+
+Tests with the word 'right':
+
+                  STL map: 14-right
+   Linear probe hashtable: 14-right (2 probes)
+Quadratic probe hashtable: 14-right (2 probes)
+        Chained hashtable: 14-right (3 probes)
+
+Tests with the word 'trust':
+
+                  STL map: 4-trust
+   Linear probe hashtable: 4-trust (1 probes)
+Quadratic probe hashtable: 4-trust (1 probes)
+        Chained hashtable: 4-trust (3 probes)
+
+Tests with the word 'united':
+
+                  STL map: 85-united
+   Linear probe hashtable: 85-united (1 probes)
+Quadratic probe hashtable: 85-united (1 probes)
+        Chained hashtable: 85-united (4 probes)
+
+Tests with the word 'states':
+
+                  STL map: 129-states
+   Linear probe hashtable: 129-states (1 probes)
+Quadratic probe hashtable: 129-states (1 probes)
+        Chained hashtable: 129-states (3 probes)
+
+Tests with the word 'vice':
+
+                  STL map: 36-vice
+   Linear probe hashtable: 36-vice (1 probes)
+Quadratic probe hashtable: 36-vice (1 probes)
+        Chained hashtable: 36-vice (3 probes)
+
+Tests with the word 'vote':
+
+                  STL map: 16-vote
+   Linear probe hashtable: 16-vote (1 probes)
+Quadratic probe hashtable: 16-vote (1 probes)
+        Chained hashtable: 16-vote (2 probes)
+
+Done!
